@@ -12,6 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/abdullahmemisoglu-message-181717?style=for-the-badge&logo=linkedin&color=blue)](https://www.linkedin.com/in/abdullahmemisoglu/)
 
 <!--
+
 ***
 
 
