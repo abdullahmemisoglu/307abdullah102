@@ -1,7 +1,7 @@
 ## 📌 GitHub Stats And Top Languages
 
 <a href="https://github.com/307abdullah102">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=307abdullah102&show_icons=true&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahmemisoglu&show_icons=true&theme=tokyonight"/>
 </a>
 
 ***
